@@ -274,7 +274,7 @@ color: #faaf3a;
   .navmenu .dropdown ul {
     margin: 0;
     padding: 10px 0;
-    background: #faaf3a;
+    background: #102a49;
     display: block;
     position: absolute;
     visibility: hidden;
@@ -352,7 +352,7 @@ color: #faaf3a;
     padding: 10px 0;
     margin: 0;
     border-radius: 6px;
-    background-color: #faaf3a;
+    background-color: #102a49;
     border: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
     box-shadow: none;
     overflow-y: auto;
